@@ -1,0 +1,71 @@
+h1 {
+  color: #f44336;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  font-size: 5rem;
+}
+
+body {
+  background-color: #ece7e1;
+  margin: 0;
+  max-width: 100%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.content {
+  display: inline;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.VideoID {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.username {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.rank {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.submit {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.5rem;
+  font-size: 20px;
+  background-color: #f44336;
+  color: white;
+  padding: 0.5rem;
+  border-color: #f44336;
+}
+/*# sourceMappingURL=style.css.map */

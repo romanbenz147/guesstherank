@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(236, 231, 225);
+}
+
+h1 {
+    color: #f44336;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 5rem;
+    
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.descr {
+    padding-bottom: 2rem;
+}
+
+.content {
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    .buttons {
+        .startbutton {
+            background-color: #f44336;
+            color: white;
+            font-size: 1.5rem;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            width: 10rem;
+            border-radius: 0.7rem;
+        }
+        .uploadbutton {
+            background-color: #f44336;
+            color: white;
+            font-size: 1.5rem;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            width: 10rem;
+            border-radius: 0.7rem;
+        }
+    }
+}
+
