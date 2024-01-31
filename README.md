@@ -19,5 +19,5 @@ SQL Credentials: <br>
         Create antother column "sessionID" of the type "varchar" (Using cookies or session ID's to keep track of the points a user has). <br>
         Last, create a column "points" of the type int. <br> 
 
-        OR USE THIS SQL: "CREATE TABLE `pointdb` (`id` int(11) NOT NULL,`sessionID` varchar(255) NOT NULL,`points` int(255) NOT NULL)" 
+        "CREATE TABLE `pointdb` (`id` int(11) NOT NULL,`sessionID` varchar(255) NOT NULL,`points` int(255) NOT NULL)" 
   
