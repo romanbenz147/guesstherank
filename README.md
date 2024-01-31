@@ -14,6 +14,6 @@ SQL Credentials: <br>
   // Database-Name: guesstherank valorant <br>
 
   You will have to create two tables inside your database: <br>
-      CREATE TABLE `pointdb` (`id` int(11) NOT NULL,`sessionID` varchar(255) NOT NULL,`points` int(255) NOT NULL)
-      CREATE TABLE `upload` (`id` int(11) NOT NULL,`username` varchar(50) NOT NULL,`rank` varchar(50) NOT NULL,`VideoID` varchar(50) NOT NULL) 
+      ```CREATE TABLE `pointdb` (`id` int(11) NOT NULL,`sessionID` varchar(255) NOT NULL,`points` int(255) NOT NULL)```
+      ```CREATE TABLE `upload` (`id` int(11) NOT NULL,`username` varchar(50) NOT NULL,`rank` varchar(50) NOT NULL,`VideoID` varchar(50) NOT NULL)``` 
   
