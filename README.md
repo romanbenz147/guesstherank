@@ -2,6 +2,7 @@
 Guess the Rank application for Valorant using MySQL, PHP, HTML, CSS and JavaScript. <br>
 
 To run this site, you will need to install and run a SQL-Database (credentials down below) as well as an web server that can run PHP. The easiest way to do this is by using XAMPP (https://www.apachefriends.org/de/index.html)! <br>
+<br>
 THE SYSTEM FOR KEEPING TRACK OF A USERS POINTS IS EXPERIMENTIAL AND STILL IN DEVELOPMENT!
 
 SQL Credentials: <br>
