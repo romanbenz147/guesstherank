@@ -1,4 +1,4 @@
-﻿# guesstherank
+﻿# Guesstherank
 Guess the Rank application for Valorant using MySQL, PHP, HTML, CSS and JavaScript. <br>
 <br>
 A user can upload YouTube clips of his gameplay and other vistors can try to review that footage and try to guess the rank of the player. <br>
@@ -7,7 +7,7 @@ To run this site, you will need to install and run a SQL-Database (credentials d
 <br>
 THE SYSTEM FOR KEEPING TRACK OF A USERS POINTS IS EXPERIMENTIAL AND STILL IN DEVELOPMENT!
 
-SQL Credentials: <br>
+## SQL Credentials <br>
   // Servername: localhost <br>
   // Username: root (This may be different for you, but "root" is the default for XAMPP) <br>
   // Password: {empty} <br>
